@@ -1,4 +1,5 @@
-[Visit True Fitness](https://true-fitness.netlify.app/)
+<a href="https://true-fitness.netlify.app/" target="_blank">Visit True Fitness</a>
+
 <br>
 # Desktop Screen
 <br>
